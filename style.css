@@ -17,7 +17,7 @@
     margin: 25px;
     border-width: 35px;
     border-style: ridge;
-    border-color: blue;
+    border-color: red;
     width: auto;
     height: auto;
     border-radius: 60% 10% 60% 10%;
@@ -34,6 +34,6 @@ background-image: url("https://raw.githubusercontent.com/rglindberg/Tribute-page
  
  }
 button{
-  text-size: 20px;
+  tex
   margin: auto;
   background-color:gold;
