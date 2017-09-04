@@ -11,7 +11,8 @@
 
 
 
- h1{   
+ h1{ 
+   color: red;
     margin: 25px;
     border-width: 35px;
     border-style: ridge;
