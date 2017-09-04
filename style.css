@@ -11,7 +11,6 @@
 
 
 
-
  h1{   
     margin: 25px;
     border-width: 35px;
@@ -24,11 +23,12 @@
     animation-duration: 20s;
     animation-iteration-count: infinite;
   text-align: center;
+   background-size:auto
   }
  
     
 body{
-  background-color: cyan;
+background-image: url("https://raw.githubusercontent.com/rglindberg/Tribute-page/master/assets/images/19985604_1699797223380996_4539888776717008896_n.jpg");
  
  }
 button{
