@@ -1,0 +1,36 @@
+
+
+
+
+
+@keyframes example {
+    0% {background-color: cyan;}
+    33% {background-color: blue;}
+    66% {background-color: cyan;}
+}
+
+
+
+
+ h1{   
+    margin: 25px;
+    border-width: 35px;
+    border-style: ridge;
+    border-color: blue;
+    width: auto;
+    height: auto;
+    border-radius: 60% 10% 60% 10%;
+    animation-name: example;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+  text-align: center;
+  }
+ 
+    
+body{
+  background-color: cyan;
+ 
+ }
+button{
+  margin: auto;
+  background-color:gold;
