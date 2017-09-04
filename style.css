@@ -12,7 +12,8 @@
 
 
  h1{ 
-   color: red;
+    text-center
+    color: red;
     margin: 25px;
     border-width: 35px;
     border-style: ridge;
