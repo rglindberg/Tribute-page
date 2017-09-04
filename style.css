@@ -17,7 +17,7 @@
     margin: 25px;
     border-width: 35px;
     border-style: ridge;
-    border-color: blue;
+    border-color: silver;
     width: auto;
     height: auto;
     border-radius: 60% 10% 60% 10%;
@@ -30,8 +30,8 @@
  
     
 body{
-background-image: url("https://raw.githubusercontent.com/rglindberg/Tribute-page/master/assets/images/19985604_1699797223380996_4539888776717008896_n.jpg");
- 
+/*background-image: url("https://raw.githubusercontent.com/rglindberg/Tribute-page/master/assets/images/19985604_1699797223380996_4539888776717008896_n.jpg");
+ */
  }
 button{
   border
